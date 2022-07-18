@@ -1,0 +1,15 @@
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.csproj.AssemblyReference.cache
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.AssemblyInfoInputs.cache
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.AssemblyInfo.cs
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.csproj.CoreCompileInputs.cache
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\bin\Debug\net6.0\CommonElementInArray.exe
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\bin\Debug\net6.0\CommonElementInArray.deps.json
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\bin\Debug\net6.0\CommonElementInArray.runtimeconfig.json
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\bin\Debug\net6.0\CommonElementInArray.dll
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\bin\Debug\net6.0\CommonElementInArray.pdb
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.dll
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\refint\CommonElementInArray.dll
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.pdb
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\CommonElementInArray.genruntimeconfig.cache
+C:\Users\Finsoft\source\repos\CommonElementInArray\CommonElementInArray\obj\Debug\net6.0\ref\CommonElementInArray.dll
