@@ -1,1 +1,1 @@
-# check--common-element-in-array
+# check-common-element-in-array
